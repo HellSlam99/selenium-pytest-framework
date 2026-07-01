@@ -142,7 +142,7 @@ main/src/screenshots/
 Clone the repository
 
 ```bash
-git clone https://github.com/<your_username>/selenium-pytest-framework.git
+git clone https://github.com/HellSlam99/selenium-pytest-framework.git
 ```
 
 Move into project
